@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">lesson one</string>
+    <string name="text_view">TextView</string>
+    <string name="edit_text">EditText</string>
+    <string name="button">Button</string>
+    <string name="btn_switch">Switch</string>
+    <string name="check_box">CheckBox</string>
+    <string name="toggle_button">ToggleButton</string>
+    <string name="text_person_name">Иван</string>
+    <string name="phone">89603554172</string>
+    <string name="number">436790</string>
+    <string name="password">12345678</string>
+    <string name="email">"text@mail.com"</string>
+    <string name="date">15.10.2020</string>
+    <string name="btn_ems">EMS</string>
+    <string name="long_text">длинный предлинный текст</string>
 </resources>
