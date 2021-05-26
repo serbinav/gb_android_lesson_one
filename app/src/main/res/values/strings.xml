@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">lesson 1</string>
+    <string name="app_name">lesson one</string>
     <string name="text_view">TextView</string>
     <string name="edit_text">EditText</string>
     <string name="button">Button</string>
